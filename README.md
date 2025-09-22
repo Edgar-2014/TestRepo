@@ -1,3 +1,3 @@
 # TestRepo
-# Testin repository
+# Testing repository
 # This is the mardown file.
